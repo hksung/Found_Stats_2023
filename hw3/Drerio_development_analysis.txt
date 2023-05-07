@@ -1,0 +1,10 @@
+Group	Average Weight	Average Length	Average Pigmentation
+Sex_Female 10.0165 3.05036 50.38
+Sex_Male 9.02871 2.93893 49.6433
+Age_1 9.52683 2.98745 49.8859
+Age_2 9.51593 2.99558 49.6832
+Age_3 9.52481 2.99718 50.067
+Age_4 9.53103 3.00423 50.0051
+Age_5 9.5167 3.00645 49.8028
+Condition_Control 9.56008 2.9542 48.09
+Condition_Treatment 9.48512 3.0351 51.9333
